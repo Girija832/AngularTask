@@ -1,0 +1,10 @@
+.custom-form {
+    border: 1px solid #0d23c5;
+    border-radius: 4px;
+    background: beige;
+    padding: 10px 20px;
+    margin-top: 50px;
+}
+.top-border {
+    border-top: 1px solid #333;
+}
